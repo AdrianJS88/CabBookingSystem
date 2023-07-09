@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="10.1 Cab Booking System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../10.1 Cab Booking System.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../10.1 Cab Booking System.zip!/Cab Booking System/src" />
+    </SOURCES>
+  </library>
+</component>
